@@ -6,8 +6,8 @@ Pagina de fruta e frutos
 | -------------  | --- |
 | :sparkles: Nome        |  Fruta & Fruto
 | :label: Tecnologias | css, html,
-| :rocket: URL         |
-| :fire: Desafio     | 
+| :rocket: URL         |https://bruno-meireles.github.io/fruta-fruto/
+| :fire: Desafio     | https://lnkd.in/djrKN5Zj
 
 
 ![Screenshot_9](https://user-images.githubusercontent.com/88012503/197591865-048fa307-3d7e-487f-95d1-0cf72f31af60.png)
