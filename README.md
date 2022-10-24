@@ -1,17 +1,18 @@
-# Nome do meu projeto
+# Fruta & Fruto
 
-Rápida descrição do objetivo de fazer esse projeto
+Pagina de fruta e frutos
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        |  Fruta & Fruto
+| :label: Tecnologias | css, html,
+| :rocket: URL         |
+| :fire: Desafio     | 
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
-## Detalhes do projeto
+![Screenshot_9](https://user-images.githubusercontent.com/88012503/197591865-048fa307-3d7e-487f-95d1-0cf72f31af60.png)
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Projeto pagina Fruta $ Fruto responsiva
+
+
+![Screenshot_8](https://user-images.githubusercontent.com/88012503/197591895-32c0ce2b-a70e-4c0c-b222-3ae4f3a35600.png)
